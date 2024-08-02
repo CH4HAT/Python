@@ -1,0 +1,1 @@
+{"the_value_is": "124568124568", "instruction": "Turn the_value into a list, then loop through it (no list comprehensions!). Inside the loop, concatenate any odd numbers onto the end of the course variable", "result": "passed"}
